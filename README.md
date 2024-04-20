@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub Repo URL: [GitHub Repo URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- GitHub Repo URL: [GitHub Repo URL](https://github.com/KrishnaPoddar1/NFTCard.git)
+- Live Site URL: [Live site URL](https://krishnapoddar1.github.io/NFTCard/)
 
 ## My process
 
